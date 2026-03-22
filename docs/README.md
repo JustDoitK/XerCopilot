@@ -14,6 +14,7 @@
 | [04. 프롬프트 엔지니어링](./04-prompt-engineering.md) | 좋은 프롬프트 작성법, 상황별 템플릿 |
 | [05. 커스텀 지시사항](./05-custom-instructions.md) | copilot-instructions.md, 팀 규칙 자동 적용 |
 | [06. 커스텀 에이전트 개발](./06-custom-agent-extension.md) | 회사 전용 @에이전트 만들기 (Jira, DB, 배포 등) |
+| [07. @confluence 에이전트](./07-confluence-agent.md) | Confluence 문서 검색/생성/수정 에이전트 개발 |
 
 ---
 
